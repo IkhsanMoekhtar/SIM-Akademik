@@ -1,0 +1,14 @@
+-------------------------------------Laporan Sementara----------------------------------------------
+Nama : Ikhsan Moekhtar
+NRP : 50242110446
+
+------------------------------------Program SIM Akademik--------------------------------------------
+
+Dalam Program siakad ini saya menambahkan beberapa fitur yang cukup bervariasi diantaranya ialah 
+fitur menambahkan data mahasiswa, data dosen, serta data tendik. selain fitur menambahkan data 
+sebelumnya saya menambahkan fitur login dengan username dan password yang sudah default yaitu
+username(admin) dan password(admin). program ini belum dapat menyediakan fitur untuk mengubah password
+dikarenakan keterbatasan kemampuan programmer dalam membuatnya. selanjutnya fitur yang terdapat pada program
+ini adalah fitur untuk mengedit atau mengatur ulang data mahasiswa, dosen, serta tendik. Fitur terakhir dalam
+program ini ialah fitur untuk mengatur IPS pada setiap data mahasiswa. serta ada beberapa fungsi dan kode
+tambahan lain yang terdapat pada program ini yang ditambahkan untuk menyelesaikan fitur-fitur tersebut. 
